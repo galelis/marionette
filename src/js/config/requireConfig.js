@@ -5,7 +5,7 @@ require.config({
         'underscore': '../../bower_components/underscore/underscore-min',
         'backbone': '../../bower_components/backbone/backbone-min',
         'marionette': '../../bower_components/marionette/lib/backbone.marionette.min',
-        'text': '../../bower_components/requirejs-text/text'
+        'hbs': '../../bower_components/hbs/hbs'
     },
 
     shim: {

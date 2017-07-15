@@ -1,0 +1,16 @@
+.hide {
+	display: none;
+}
+
+.userlist-item {
+    border: #9999F9 solid 1px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #DBDBF3;
+}
+
+.img-user {
+	border-radius: 45px;
+    border: rgba(0, 0, 255, 0.16) solid 2px;
+}

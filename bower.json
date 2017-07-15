@@ -17,5 +17,8 @@
     "marionette": "~2.4.5",
     "requirejs": "~2.2.0",
     "requirejs-text": "~2.0.14"
+  },
+  "devDependencies": {
+    "hbs": "~1.0.0"
   }
 }
